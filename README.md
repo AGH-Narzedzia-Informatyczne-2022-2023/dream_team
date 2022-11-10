@@ -3,3 +3,4 @@
 Feel free to follow the development of the repo! 	:relaxed:
 
 
+![Dream Team](./pictures/Dream_team.jpg)
